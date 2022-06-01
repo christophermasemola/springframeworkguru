@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring5webppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Spring5webppApplication.class, args);
+		//SpringApplication.run(Spring5webppApplication.class, args);
 	}
 
 }
